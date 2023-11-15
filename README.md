@@ -40,7 +40,7 @@ A simple Node.js script that reads recipient data from a JSON file and sends per
 
    Replace `"your-email@gmail.com"` with your Gmail address and `"your-app-password"` with the [App Password](https://myaccount.google.com/security-checkup) you generated.
 
-5. Update the `email.json` file with your recipient data:
+5. Create a `email.json` file with your recipient data:
 
    ```json
    [
